@@ -20,7 +20,6 @@ You must install the following:
 
 #### **1. Arduino IDE**
 - Version recommended: **Arduino IDE 1.8.x or 2.x**
-- Download: (Official Arduino Website)
 
 Used for:
 - Uploading the `.ino` file
@@ -28,7 +27,6 @@ Used for:
 
 #### **2. Processing IDE**
 - Version recommended: **Processing 3.x or 4.x**
-- Download: (Official Processing Website)
 
 Used for:
 - Running radar visualization (.pde file)
