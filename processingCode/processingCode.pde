@@ -20,7 +20,7 @@ void setup() {
   smooth();
   
   println(Serial.list()); 
-  myPort = new Serial(this, "COM6", 9600); // COM portu kontrol et
+  myPort = new Serial(this, "COM6", 9600); // Check the COM port
   myPort.bufferUntil('\n');
 }
 
@@ -154,3 +154,4 @@ void drawText() {
   
   popMatrix();
 }
+
